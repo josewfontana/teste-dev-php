@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "id": "4627eabb-0d0b-4e57-9f9c-7faf7c69e559",
+      "type": "company",
+      "name": "Braga e Associados",
+      "document": "02.717.910/0001-77",
+      "address": "397 Pedro Henrique Travessaa",
+      "zipCode": "48209-838",
+      "state": "MS",
+      "country": "BR"
+    },
+    {
+      "id": "9c55fee1-47a6-44c2-92bd-d5def4c583bf",
+      "type": "company",
+      "name": "Franco, Carvalho e Albuquerquea",
+      "document": "23.312.635/0001-67",
+      "address": "736 Frederico Marginal",
+      "zipCode": "17064-131",
+      "state": "AC",
+      "country": "BR"
+    },
+    {
+      "id": "a0ef7042-692a-490d-b19b-3da337a3ff77",
+      "type": "company",
+      "name": "Albuquerque-Barros",
+      "document": "75.136.513/0001-61",
+      "address": "87433 Martins Marginal",
+      "zipCode": "89682-105",
+      "state": "PI",
+      "country": "BR"
+    },
+    {
+      "id": "1deb4789-9a51-4e08-8169-ff2b4d5fb6fc",
+      "type": "person",
+      "name": "Dra. Yasmin Saraiva",
+      "document": "875.794.537-64",
+      "address": "89112 Marina Rua",
+      "zipCode": "57419-352",
+      "state": "BA",
+      "country": "BR"
+    },
+    {
+      "id": "d67c9963-9273-4405-873d-f4b762d72129",
+      "type": "person",
+      "name": "Sra. Maria Luiza Melo",
+      "document": "401.025.144-73",
+      "address": "5552 Melo Alameda",
+      "zipCode": "72143-951",
+      "state": "AM",
+      "country": "BR"
+    },
+    {
+      "id": "8d79ffbe-0edf-4faf-b0e7-13b7622d242d",
+      "type": "person",
+      "name": "Rebeca Franco",
+      "document": "361.558.852-06",
+      "address": "2642 Lucas Rua",
+      "zipCode": "92798-555",
+      "state": "RN",
+      "country": "BR"
+    },
+    {
+      "id": "1f42873e-a715-42eb-9728-7e2ceb165749",
+      "type": "person",
+      "name": "Antônio Albuquerque",
+      "document": "802.636.757-29",
+      "address": "4229 Marina Marginal",
+      "zipCode": "32781-925",
+      "state": "MS",
+      "country": "BR"
+    },
+    {
+      "id": "819fbc35-cc56-4484-ace7-be84d01b2758",
+      "type": "company",
+      "name": "Moraes, Melo e Carvalho",
+      "document": "00.855.310/0001-47",
+      "address": "774 João Alameda",
+      "zipCode": "31390-910",
+      "state": "BA",
+      "country": "BR"
+    },
+    {
+      "id": "59f54b1d-4b16-4bf9-a47a-55fe710318d1",
+      "type": "person",
+      "name": "Mariana Melo",
+      "document": "452.558.139-55",
+      "address": "7688 Moraes Rodovia",
+      "zipCode": "69093-693",
+      "state": "MT",
+      "country": "BR"
+    },
+    {
+      "id": "51c8987f-73ea-4436-ad46-cf4155390a16",
+      "type": "person",
+      "name": "Janaína Barros",
+      "document": "084.125.023-41",
+      "address": "54405 Beatriz Travessa",
+      "zipCode": "47972-637",
+      "state": "PR",
+      "country": "BR"
+    },
+    {
+      "id": "7e631037-f86f-4b8c-be40-3fcc75d9aa2c",
+      "type": "company",
+      "name": "Albuquerque Comércio",
+      "document": "02.241.025/0001-08",
+      "address": "2557 Reis Rodovia",
+      "zipCode": "09287-491",
+      "state": "SP",
+      "country": "BR"
+    },
+    {
+      "id": "98a8a7e2-7b43-46ad-a6ae-be7c713549d8",
+      "type": "company",
+      "name": "Batista LTDA",
+      "document": "00.028.203/0001-78",
+      "address": "94206 Macedo Rodovia",
+      "zipCode": "80155-043",
+      "state": "DF",
+      "country": "BR"
+    },
+    {
+      "id": "0c1b0ceb-7677-43ef-81a1-2471eae66d02",
+      "type": "person",
+      "name": "Sra. Ana Clara Saraiva",
+      "document": "209.563.348-10",
+      "address": "966 Batista Travessa",
+      "zipCode": "76180-619",
+      "state": "CE",
+      "country": "BR"
+    },
+    {
+      "id": "764b695c-39b5-45e1-bd25-2c24bb3fdc8c",
+      "type": "company",
+      "name": "Xavier e Associados",
+      "document": "86.209.405/0001-85",
+      "address": "69288 Isabella Rua",
+      "zipCode": "13660-517",
+      "state": "MT",
+      "country": "BR"
+    },
+    {
+      "id": "aa3cae8c-a3a2-430d-a489-6329d488ca75",
+      "type": "person",
+      "name": "Sarah Batista",
+      "document": "611.084.259-01",
+      "address": "759 Batista Rodovia",
+      "zipCode": "44229-354",
+      "state": "TO",
+      "country": "BR"
+    },
+    {
+      "id": "a0d25f88-dd21-45b1-9c5c-59824ea887e9",
+      "type": "person",
+      "name": "Davi Albuquerque",
+      "document": "877.860.436-95",
+      "address": "804 Silva Rodovia",
+      "zipCode": "47850-211",
+      "state": "AM",
+      "country": "BR"
+    },
+    {
+      "id": "993dc8e8-de98-4fd7-ba2f-f5ff2a03a06b",
+      "type": "person",
+      "name": "Alexandre Barros",
+      "document": "886.901.852-84",
+      "address": "721 Silva Travessa",
+      "zipCode": "89926-981",
+      "state": "GO",
+      "country": "BR"
+    },
+    {
+      "id": "ca216bff-b095-46c0-9170-e12f045f9390",
+      "type": "person",
+      "name": "Felícia Melo",
+      "document": "720.755.956-01",
+      "address": "52141 Sirineu Travessa",
+      "zipCode": "24514-309",
+      "state": "AM",
+      "country": "BR"
+    },
+    {
+      "id": "c8e1f07b-6234-4e36-9fda-f0b90f2c83fd",
+      "type": "person",
+      "name": "Cecília Franco Filho",
+      "document": "785.136.034-81",
+      "address": "8026 Eloá Rodovia",
+      "zipCode": "69462-095",
+      "state": "TO",
+      "country": "BR"
+    }
+  ]
+}
